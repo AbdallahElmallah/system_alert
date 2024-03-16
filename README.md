@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # System Monitoring Script
 
 This script monitors various system resources (CPU, RAM, storage, PostgreSQL status, and replication lag) and sends email alerts if their usage or status exceeds predefined thresholds.
@@ -65,3 +66,6 @@ Replace `/path/to/system_alert` with the actual path to the project directory.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+# system_alert
+>>>>>>> origin/main
